@@ -1,0 +1,152 @@
+.background {
+    background-image: url(https://qph.fs.quoracdn.net/main-qimg-b5faebde65208b4e09af0a85b3893ddd-lq);
+    background-size: 100% 100%;
+
+}
+
+label {
+    color: black;
+}
+
+.container {
+    height: 550px;
+    width: 700px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding-top: 30px;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+    color: brown;
+}
+
+.container p {
+    text-align: center;
+    margin: 0;
+    color: #636466;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Box-Display {
+    display: flex;
+    padding: 10px 10px 10px 10px;
+}
+
+.table1 {
+    height: 260px;
+    width: 280px;
+    border: 2px;
+    margin: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #636466;
+}
+
+.Table1Display {
+    display: flex;
+    flex-direction: column;
+}
+
+.ab {
+    margin-bottom: 10px;
+    display: flex;
+    height: 30px;
+    border: 1px solid lightslategrey;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.abc {
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+
+.table1 p {
+    text-align: justify;
+    font-size: 14px;
+    color: #939598;
+}
+
+.table2 {
+    padding: 0px 20px 0px 20px;
+    height: 260px;
+    width: 280px;
+    border: 2px;
+    margin: 10px;
+}
+
+.table2 input {
+    width: 280px;
+    height: 30px;
+    margin-top: 4px;
+}
+
+.table2 .fpl {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+.table2 .fpl a {
+    padding: 10px 10px 10px 0px;
+    text-decoration: none;
+}
+
+.table2 .fpl button {
+    margin-left: auto;
+    width: 70px;
+    padding: 9px;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+    background-color: mediumslateblue;
+}
+
+.language {
+    text-align: center;
+    font-size: 13px;
+
+}
+
+.language a {
+    text-decoration: none;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: #F1F2F2;
+    color: #636466;
+    height: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    font-size: 14px;
+
+}
+
+li {
+    margin: 0;
+    padding: 0;
+
+}
+
+footer a {
+    text-decoration: none;
+
+}
